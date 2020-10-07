@@ -1,1 +1,13 @@
-
+#background {
+  color: #00FF00;
+}
+#title {
+  font-size: 20px;
+}
+$info {
+  font-size:10px;
+}
+#input {
+  font-size: 10px;
+  color: #FF0000;
+}
